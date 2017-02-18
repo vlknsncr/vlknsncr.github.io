@@ -416,6 +416,7 @@ h6,
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-1 .navbar-toggler {
   color: #ffffff;
@@ -486,6 +487,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -548,14 +550,12 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features1-4 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-9 .navbar-toggler {
   color: #ffffff;
@@ -623,6 +623,7 @@ h6,
 }
 #menu-i .navbar-caption {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-i .navbar-toggler {
   color: #ffffff;
